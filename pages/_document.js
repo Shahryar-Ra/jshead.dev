@@ -15,11 +15,7 @@ class MyDocument extends Document {
             href="https://fonts.gstatic.com/"
             crossOrigin=""
           />
-          <link
-            rel="preconnect"
-            href="https://cdn.usefathom.com"
-            crossOrigin=""
-          />
+
           <link
             href="/static/favicons/apple-touch-icon.png"
             rel="apple-touch-icon"
