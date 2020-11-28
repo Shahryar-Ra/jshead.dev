@@ -66,16 +66,19 @@ const Index = ({ allPostsData }) => {
             {allPostsData.map(({ id, date, title }) => (
               <Link href={`blog/${id}`} key={id}>
                 <a>
-                  <ListItem mb="40px">
+                  <ListItem
+                    mb="40px"
+                    _hover={{
+                      background: 'white',
+                      color: 'purple.400'
+                    }}
+                  >
                     <Heading
                       as="h4"
                       size="md"
                       fontWeight="bold"
                       mb={2}
                       letterSpacing="tighter"
-                      _hover={{
-                        fontColor: '#12a'
-                      }}
                     >
                       {title}
                     </Heading>

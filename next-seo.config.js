@@ -1,4 +1,4 @@
-const title = 'Jshead - A Blog by Shahryar Rajabpoor';
+const title = 'Shahryar Rajabpoor';
 const description = 'Front-end Developer, JavaScript enthusiast.';
 
 const SEO = {
