@@ -55,11 +55,10 @@ const About = () => {
               Hey, I’m Shahryar. I'm a developer, musician and songwriter.
             </Text>
             <Text color={secondaryTextColor[colorMode]} mb={4}>
-              As someone who has been involved in art and music since I was a
-              teenager, I was still very interested in the world of technology.
-              For years, I thought that I should only be involved in music as a
-              profession and that I could not enter the tech world
-              professionally.
+              Being involved in art and music since I was a teenager, I was
+              still very interested in the world of technology. For years, I
+              thought that I should only be involved in music as a profession
+              and that I could not enter the tech world professionally.
             </Text>
             <Text color={secondaryTextColor[colorMode]} mb={4}>
               But a few years ago, I made the decision to start learning
@@ -69,18 +68,14 @@ const About = () => {
             </Text>
             <Text color={secondaryTextColor[colorMode]} mb={4}>
               After a while, I started learning programming and more complex
-              concepts in the web world via the courses on udemy, online
-              bootcamps and dear friend, Youtube.
+              concepts in the web world via the help of open source community,
+              courses on Frontend Masters, Udemy, other online bootcamps and of
+              course dear friend, Youtube!
             </Text>
             <Text color={secondaryTextColor[colorMode]} mb={4}>
-              I went through the usual HTML, CSS and Javascript path and then
-              entered the world of React and fell in love with how it worked
-              from the beginning.
-            </Text>
-            <Text color={secondaryTextColor[colorMode]} mb={4}>
-              My current focus is on becoming a front-end professional engineer.
-              I am very interested in Serverless technologies and Cloud
-              Computing and functional programming.
+              My current focus is on becoming a front-End professional engineer.
+              Right now I am very interested in Functional Programming,
+              Serverless technologies and Cloud Computing solutions.
             </Text>
           </Flex>
         </Stack>
