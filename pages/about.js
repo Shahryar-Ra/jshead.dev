@@ -73,7 +73,7 @@ const About = () => {
               course dear friend, Youtube!
             </Text>
             <Text color={secondaryTextColor[colorMode]} mb={4}>
-              My current focus is on becoming a front-End professional engineer.
+              My current focus is on becoming a Professional Front-end Engineer.
               Right now I am very interested in Functional Programming,
               Serverless technologies and Cloud Computing solutions.
             </Text>
